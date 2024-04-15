@@ -12,4 +12,7 @@
 (https://github.com/jayendra183/fyle_assignment/assets/108694323/cf575f99-57f6-404f-924b-1a2cd35fb469)
 ![case4](https://github.com/jayendra183/fyle_assignment/assets/108694323/dd1dfff4-afde-4a38-b53a-fe28910a90de)
 ![case4_output](https://github.com/jayendra183/fyle_assignment/assets/108694323/eaf40276-eaab-4820-b564-a673c9cdb003)
+![error_in_extra_income](https://github.com/jayendra183/fyle_assignment/assets/108694323/8afe6652-93c4-45bf-8164-26fb546e2fec)
+![errorcame](https://github.com/jayendra183/fyle_assignment/assets/108694323/3305ebda-44fa-417b-9b0d-627677b6c26e)
+![errorcame_indeduction](https://github.com/jayendra183/fyle_assignment/assets/108694323/89d0057c-1162-411d-8d51-48312a5945cf)
 
